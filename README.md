@@ -16,6 +16,7 @@ Se desea realizar una consulta en la que muestre la lista de reproduccion junto 
 Colocar el monto total de las facturas generadas de las ventas. Permitir la impresion del nombre del empleado a cargo, generar 
 una visualizacion de la compañia del cliente se debe de tener en cuenta que este no debe de estar vacio.
 Por ultimo el numero de la cantidad de pistas deben de ser mayor a dos
+
 ![image](https://user-images.githubusercontent.com/94577004/151322103-87e38f5b-b666-4404-9db7-eddd9f766286.png)
 
 
@@ -67,4 +68,5 @@ mostrando el total de tracks adquiros por el género Rock en el año 2010 debe m
 CONSULTA 10
 Proporcione una consulta que muestre el tracks y bytes ocupados en la Lista de Reproduccion Music 
 cuyo album sea Balls to the Wall y qué cliente adquirio dicha lista con ese track
+
 ![image](https://user-images.githubusercontent.com/94577004/151322998-9942cf20-97ae-4e76-9990-58e3e1b07098.png)
